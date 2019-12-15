@@ -1,19 +1,40 @@
 {
     "data":[
         {
-            "Nama":"Fatany",
-            "Nim":"11123",
-            "email":"fatanyrazis@gmail.com"
+            "Nama":"Mochamad Fatany",
+            "Nim":"A11.2018.11123",
+            "email":"fatanyrazis@gmail.com",
+            "jumlah":"24",
+            "matakuliah":[
+                    "Pemrograman web","Struktur data","Matematika Diskrit","Etika Profesi","Matriks & Ruang Vektor","Organisasi dan Arsitektur Komputer","Pendidikan Kawarganegaraan","Literasi Informasi"
+            ]
         },
         {
-            "Nama":"Abdul",
-            "Nim":"11124",
-            "email":"abdulkasim@gmail.com"
+            "Nama":"Gilang Permana",
+            "Nim":"A11.2018.11124",
+            "email":"Gilang@gmail.com",
+            "jumlah":"24",
+            "matakuliah":[
+                    "Pemrograman web","Struktur data","Matematika Diskrit","Etika Profesi","Matriks & Ruang Vektor","Organisasi dan Arsitektur Komputer","Pendidikan Kawarganegaraan","Literasi Informasi"
+            ]
         },
         {
-            "Nama":"rudina",
-            "Nim":"11125",
-            "email":"rudina@gmail.com"
+            "Nama":"Arnanda Assahfa",
+            "Nim":"A11.2018.11125",
+            "email":"Arnanda@gmail.com",
+            "jumlah":"24",
+            "matakuliah":[
+                    "Pemrograman web","Struktur data","Matematika Diskrit","Etika Profesi","Matriks & Ruang Vektor","Organisasi dan Arsitektur Komputer","Pendidikan Kawarganegaraan","Literasi Informasi"
+            ]
+        },
+        {
+            "Nama":"Manuel Setyo",
+            "Nim":"A11.2018.11126",
+            "email":"Manuel@gmail.com",
+            "jumlah":"23",
+            "matakuliah":[
+                    "Pemrograman web","Struktur data","Matematika Diskrit","Matriks & Ruang Vektor","Organisasi dan Arsitektur Komputer","Pendidikan Kawarganegaraan","Jaringan Komputer"
+            ]
         }
     ]
 }

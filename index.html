@@ -6,11 +6,10 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 </head>
 <body>
-    <h1>KRS MAHASISWA</h1>
-
-    <!-- <div class="container">
-        <div id="list" class="row"></div>
-    </div> -->
+    <h1 id="id1">KRS MAHASISWA</h1>
+    <script>
+            document.write(Date());
+    </script>
 
     <table class="table text-center">
         <thead>
@@ -18,7 +17,9 @@
                 <th>No</th>
                 <th>Nama</th>
                 <th>Nim</th>
-                <th>email</th>
+                <th>Email</th>
+                <th>Jumlah KRS</th>
+                <th>Mata Kuliah</th>
             </tr>
         </thead>
         <tbody id=tbody></tbody>
@@ -26,13 +27,10 @@
 
     <div class="btn-group">
         <button id="tombol" class="btn btn-primary">
-            click me
+            Data Mahasiswa
         </button>
-        
-        <a class="btn btn-success" href="form.html">
-            add new
-        </a>
     </div>
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
