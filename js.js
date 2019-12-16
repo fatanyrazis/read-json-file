@@ -6,6 +6,7 @@ tombol.click(function(){
     $('#id1').css("color", "white")
     $('#id1').css("background-color", "blue")
     $('#id1').html("Data Mahasiswa")
+    $('button').html("Kembali")
     
     console.log('clicked')
     $.getJSON("data.json",function(result){
